@@ -47,7 +47,7 @@ PS-ZIM ouvre un fichier `.zim` (Wikipédia offline, dump Stack Exchange, etc.), 
 
 ```powershell
 # Cloner le dépôt
-git clone https://github.com/<votre-compte>/PS-ZIM.git
+git clone https://github.com/Vietnamix/PS-ZIM.git
 cd PS-ZIM
 ```
 
