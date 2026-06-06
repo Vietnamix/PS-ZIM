@@ -192,7 +192,7 @@ Utilisez `-BindAddress 0.0.0.0`. Attention : cela rend l'archive accessible à t
 
 ## Licence
 
-À définir par l'auteur du dépôt (par exemple MIT).
+Distribué sous licence MIT. Voir le fichier [`LICENSE.md`](License.md) pour les détails.
 
 PS-ZIM télécharge et utilise `libzstd.dll`, distribuée par le projet [zstd](https://github.com/facebook/zstd) (Facebook/Meta) sous licence BSD/GPLv2. Le format ZIM est une spécification ouverte du projet [openZIM](https://openzim.org/).
 
