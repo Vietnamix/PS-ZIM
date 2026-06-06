@@ -5,7 +5,7 @@
 PS-ZIM ouvre un fichier `.zim` (Wikipédia offline, dump Stack Exchange, etc.), monte un mini serveur HTTP local et lance votre navigateur. Il décompresse à la volée les clusters Zstandard des ZIM modernes (Kiwix) — le tout sans installer Kiwix, sans dépendance externe lourde, et compatible aussi bien avec PowerShell 5.1 qu'avec PowerShell 7.x.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.6-2c6cb0" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.9-2c6cb0" alt="Version">
   <img src="https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white" alt="Plateforme">
   <img src="https://img.shields.io/badge/license-MIT-3fa45b" alt="Licence">
