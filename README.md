@@ -12,7 +12,7 @@ PS-ZIM ouvre un fichier `.zim` (Wikipédia offline, dump Stack Exchange, etc.), 
 </p>
 
 <p align="center">
-  <img src="PS-zim.png" alt="Affichage PS-ZIM" width="90%">
+  <img src="PS-ZIM.png" alt="Affichage PS-ZIM" width="90%">
 </p>
 
 ---
