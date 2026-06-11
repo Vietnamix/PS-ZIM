@@ -200,3 +200,11 @@ Distribué sous licence MIT. Voir le fichier [`LICENSE.md`](License.md) pour les
 
 PS-ZIM télécharge et utilise `libzstd.dll`, distribuée par le projet [zstd](https://github.com/facebook/zstd) (Facebook/Meta) sous licence BSD/GPLv2. Le format ZIM est une spécification ouverte du projet [openZIM](https://openzim.org/).
 
+---
+
+## 👤 Auteur
+
+**[Eric Guiffault](https://eric.guiffault.com)**
+
+Si ce projet vous est utile, pensez à me laisser une ⭐ sur GitHub !
+
